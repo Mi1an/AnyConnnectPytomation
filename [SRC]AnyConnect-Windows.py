@@ -1,7 +1,13 @@
 # Creator: Milan Kopac
 # Created: 24.7.2023
-# Note:
+# Version: 1.0.0
+# Note: You need to have profiles in Cisco ProgramData as XML files with HostName!
 # Obfuscation (if implemented): python -OO -m py_compile AnyConnect-Windows.py
+# Modules installation:
+#	pip install inquirer
+#	pip install BeuatifulSoup
+#	pip install bs4
+#	pip install lxml
 
 import os
 import inquirer
